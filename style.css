@@ -1,0 +1,159 @@
+.navbar {
+    background-color:navy !important;
+}
+
+.nav-link {
+    color: grey!important;
+    font-weight: bold;
+}
+.img1 {
+    width: 140px;
+    height: 80px;
+    background-color: navy !important;
+}
+h4 {
+    color: grey;
+}
+.dropdown-menu {
+    background-color: navy;
+}
+.dropdown-item {
+    color: grey !important;
+}
+.fa-shopping-cart,.fa-user-o {
+    font-size: 32px !important;
+}
+
+.fa-truck,.fa-money,.fa-thumbs-up {
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: grey !important;
+}
+.card1 {
+    display: flex;
+    box-shadow: 2px 4px 5px grey;
+    width: 300px;
+    height: 100px;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.maincard {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+h5 {
+    color:navy;
+}
+.badge-secondary {
+    background-color: navy !important;
+    color: grey !important;
+    margin-top: 30px !important;
+    font-size: 30px;
+}
+
+.card-body{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 2px;
+    flex-direction: row;
+    display: flex; 
+}
+.card-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.card-text {
+    color:grey;
+    font-size: 15px;
+    font-weight: bold;
+}
+.card-title {
+    color: navy;
+    font-weight: bold;
+}
+.btn-primary {
+    background-color:steelblue;
+}
+.fa-copyright {
+    font-size: 50px !important;
+    color: grey !important;
+    margin-right: 15px;
+    align-items: center;
+}
+.spantext {
+    font-size: 30px !important;
+    color: grey !important;
+}
+.alert-dark {
+    background-color: black !important;
+    margin-top: 20px;
+}
+.abouttext {
+    background-color: indianred;
+    color: indigo;
+}
+.fa-facebook,.fa-instagram,.fa-whatsapp,.fa-twitter {
+    font-size: 32px;
+    color: ivory;
+}
+.social {
+    color: ivory;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
